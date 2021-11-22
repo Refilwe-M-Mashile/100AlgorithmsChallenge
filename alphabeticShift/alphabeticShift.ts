@@ -10,4 +10,4 @@ export function alphabeticShift(inputString: string): string {
 }
 
 console.log(alphabeticShift('crazy'));
-console.log(alphabeticShift('abcxyz'));
+console.log(alphabeticShift('abc'));
